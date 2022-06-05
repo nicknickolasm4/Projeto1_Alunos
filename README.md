@@ -1,6 +1,6 @@
 
 # Apple Logo Animado
-![Logo](github.com/nicknickolasm4/Projeto1_Alunos/apple.gif)
+![Logo](https://github.com/nicknickolasm4/Projeto1_Alunos/apple.gif)
 
 ## Atividade 1:
 
